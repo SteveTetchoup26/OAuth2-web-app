@@ -1,7 +1,7 @@
 package com.st.backend_OidcUserService.service;
 
-import com.st.backend_oauth2.model.User;
-import com.st.backend_oauth2.repository.UserRepository;
+import com.st.backend_OidcUserService.model.User;
+import com.st.backend_OidcUserService.repository.UserRepository;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 

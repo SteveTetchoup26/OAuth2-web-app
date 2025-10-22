@@ -1,6 +1,6 @@
 package com.st.backend_OidcUserService.repository;
 
-import com.st.backend_oauth2.model.User;
+import com.st.backend_OidcUserService.model.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;

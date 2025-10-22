@@ -1,6 +1,6 @@
 package com.st.backend_OidcUserService.security;
 
-import com.st.backend_oauth2.util.JwtUtil;
+import com.st.backend_OidcUserService.util.JwtUtil;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;

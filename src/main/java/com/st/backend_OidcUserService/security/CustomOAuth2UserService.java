@@ -1,7 +1,7 @@
 package com.st.backend_OidcUserService.security;
 
 
-import com.st.backend_oauth2.service.UserService;
+import com.st.backend_OidcUserService.service.UserService;
 import org.springframework.security.oauth2.client.userinfo.DefaultOAuth2UserService;
 import org.springframework.security.oauth2.client.userinfo.OAuth2UserRequest;
 import org.springframework.security.oauth2.core.user.OAuth2User;
